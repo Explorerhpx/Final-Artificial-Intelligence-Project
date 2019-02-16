@@ -6,7 +6,7 @@ This repository contains the final project of (Fudan University) DATA130008: Int
 Thanks to Dr.[Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/), who is the Instructor of this course.
 
 ## Remark
-* This Project is a group work implemented by  [Shun Zhang](https://github.com/zhangshun97), [Donghao Li](https://github.com/Lidonghao1996) and [Pingxuan Huang](https://github.com/Explorerhpx).  Codes are available, if you want to utilize them, however, please indicate the source;
+* This Project is a group work implemented by [Shun Zhang](https://github.com/zhangshun97), [Pingxuan Huang](https://github.com/Explorerhpx) and [Donghao Li](https://github.com/Lidonghao1996).  Codes are available, if you want to utilize them, however, please indicate the source;
 * If you have any question, please don't hesitate to contact *1336076538@qq.com* for help.
 * Some related papers are provided as references (you can obtain them at the [*References*](#reference) part);
 
