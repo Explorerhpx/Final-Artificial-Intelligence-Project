@@ -14,20 +14,20 @@ Thanks to Dr.[Zhongyu Wei](http://www.sdspeople.fudan.edu.cn/zywei/), who is the
 
 ### Requirement
 
-*More detailed information could be found in the [Introduction.pdf]();*
+*More detailed information could be found in the [Introduction.pdf](https://github.com/Explorerhpx/Final-Artificial-Intelligence-Project/blob/master/Instruction.pdf);*
 
 * Students are required to implement an AI to play [Gomoku](https://en.wikipedia.org/wiki/Gomoku);
 * Gomoku Rule: Free Gomoku Rule (five or more);
-* The Gomoku AIs are based on the [Gomocup standard](http://gomocup.org/). You can create your own `AI.exe` through `pisqpipe`, related codes and document are [here]();
+* The Gomoku AIs are based on the [Gomocup standard](http://gomocup.org/). You can create your own `AI.exe` through `pisqpipe`, related codes and document are [here](https://github.com/Explorerhpx/Final-Artificial-Intelligence-Project/tree/master/pisqpipe);
 
 ### Our work
 
-*Please check [Report.pdf]() for the detail information about our algorithms, AIs and experiments.*
+*Please check [Report.pdf](https://github.com/Explorerhpx/Final-Artificial-Intelligence-Project/blob/master/report.pdf) for the detail information about our algorithms, AIs and experiments.*
 
 Based on 3 different algorithms, our groups successfully implemented 3 AIs:
-* [Monte-Carlo Tree Search]()
-* [Genetic Algorithm]()
-* [Minimax Search]()
+* [Monte-Carlo Tree Search](https://github.com/Explorerhpx/Final-Artificial-Intelligence-Project/tree/master/Mcts%20Algorithm)
+* [Genetic Algorithm](https://github.com/Explorerhpx/Final-Artificial-Intelligence-Project/tree/master/Genetic%20Algorithm)
+* [Minimax Search](https://github.com/Explorerhpx/Final-Artificial-Intelligence-Project/tree/master/Minimax%20Search)
 
 ## Note
 
